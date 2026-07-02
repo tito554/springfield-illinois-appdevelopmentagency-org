@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://springfield-illinois.appdevelopmentagency.org/sitemap.xml
